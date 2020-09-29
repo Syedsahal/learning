@@ -1,0 +1,21 @@
+#main{
+    display: inline-flex;
+    padding-left: 450px;
+    padding-top: 100px;
+    margin: 15px;
+    text-align: center;
+    background-color: burlywood;
+}
+#div1{
+    width: 400px;
+    height: 500px;
+    font-size: x-large;
+    font-family: sans-serif ;
+    padding-left: 50px;
+    background-color: blue;
+    
+
+}
+p{
+    font-size: large;text-align: center;
+}
